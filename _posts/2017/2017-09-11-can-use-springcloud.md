@@ -126,6 +126,6 @@ Turbine、zipkin可以用来做熔断和性能监控；动态上下线某个节�
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：纯洁大犊**  
 **出处：[http://www.ityouknow.com/](http://www.ityouknow.com)**      
 **版权归作者所有，转载请注明出处** 

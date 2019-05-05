@@ -16,7 +16,7 @@ tags: [springcloud]
 
 ## 推荐博客
 
-- [纯洁的微笑 Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud) 
+- [纯洁大犊 Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud) 
 - [windmt一spring cloud](https://windmt.com/tags/Spring-Cloud/)  
 - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)  
 - [许进 跟我学 Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
@@ -30,7 +30,7 @@ tags: [springcloud]
 
 ## 开源
 
-- [纯洁的微笑的 Spring Cloud 示例](https://github.com/ityouknow/spring-cloud-examples)  
+- [纯洁大犊的 Spring Cloud 示例](https://github.com/ityouknow/spring-cloud-examples)  
 - [spring cloud + vue 全家桶实战，模拟商城，完整的购物流程](https://github.com/paascloud/paascloud-master)  
 - [PiggyMetrics-一个供个人处理财务的解决方案](https://github.com/sqshq/PiggyMetrics)  
 - [基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例](https://github.com/prontera/spring-cloud-rest-tcc)  
