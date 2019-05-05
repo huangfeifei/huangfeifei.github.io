@@ -229,7 +229,7 @@ eureka.client.serviceUrl.defaultZone=http://localhost:8000/eureka/
 -------------
 
 **作者：纯洁大犊**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/12/eureka-provider-constomer.html)**      
+**出处：[https://huangfeifei.github.io/](https://huangfeifei.github.io/springcloud/2017/05/12/eureka-provider-constomer.html)**      
 **版权归作者所有，转载请注明出处** 
 
 

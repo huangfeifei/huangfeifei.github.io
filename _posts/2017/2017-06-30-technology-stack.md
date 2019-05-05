@@ -26,7 +26,7 @@ tags: [arch]
 
  
 ![](https://huangfeifei.github.io/assets/images/2017/architecture/technology-stack.png)  
-[点击这里看大图](http://www.ityouknow.com/assets/images/2017/architecture/technology-stack.png)
+[点击这里看大图](https://huangfeifei.github.io/assets/images/2017/architecture/technology-stack.png)
 
 接下来就展开来说
 

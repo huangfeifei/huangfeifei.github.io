@@ -12,7 +12,7 @@ no-post-nav: true
 
 ## 博客
 
-- [纯洁大犊](http://www.ityouknow.com)
+- [纯洁大犊](https://huangfeifei.github.io)
 
 - [粉丝日志](http://blog.fens.me/series-hadoop-family/)
 

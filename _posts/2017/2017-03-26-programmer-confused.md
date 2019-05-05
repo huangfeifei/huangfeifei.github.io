@@ -93,7 +93,7 @@ tags: [life]
 -------------
 
 **作者：纯洁大犊**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/career/2017/03/26/programmer-confused.html)**      
+**出处：[https://huangfeifei.github.io/](https://huangfeifei.github.io/career/2017/03/26/programmer-confused.html)**      
 **版权归作者所有，转载请注明出处** 
 
 
